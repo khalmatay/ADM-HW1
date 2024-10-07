@@ -6,9 +6,9 @@ This repository contains the first homework for the ADM course in 2024. Initiall
 ## Repository Structure
 
 - **amazon_labs/**: Pdf files of amazon labs.
-- **files/**: Keeps pdf all submissions in problem1 and problem2.
+- **stamps/**: Keeps pdf all submissions in problem1 and problem2.
 - **scripts/**:
-    - **all_scripts.ipynb/**: All solutions for check.
+    - **scripts.ipynb/**: All solutions for check.
   - **solutions_by_topic/**: 
     - `built_ins.ipynb`
     - `collections.ipynb`
@@ -27,3 +27,4 @@ This repository contains the first homework for the ADM course in 2024. Initiall
 
 Notes: Maybe when I copied my solutions from Hackerank to jupyter, I could make mistakes, but I solved that task. Pls write me khalmatay.2184569@studenti.uniroma1.it
 .
+![img.png](img.png)
