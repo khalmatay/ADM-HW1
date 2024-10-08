@@ -1,4 +1,5 @@
 # ADM-HW1
+## Author Nurbek Khalmatay
 
 ## Overview
 
